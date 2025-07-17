@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+
+# Jupyter Notebook checkpoint files
+**/.ipynb_checkpoints
+
+# __pycache__ klasörleri
+__pycache__/
+*.py[cod]
+
+# IDE ve sistem dosyaları
+.vscode/
+.DS_Store
+
+# Veri dosyaları (gerekirse)
+data/
